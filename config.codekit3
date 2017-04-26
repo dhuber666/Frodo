@@ -127,22 +127,11 @@
 		"oAP": "\/fonts\/glyphicons-halflings-regular.woff2",
 		"oF": 0
 		},
-	"\/images\/background.png": {
+	"\/images\/frodo-big.png": {
 		"ft": 32768,
-		"iS": 826784,
+		"iS": 868106,
 		"oA": 0,
-		"oAP": "\/images\/background.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/background1.png": {
-		"ft": 32768,
-		"iS": 699989,
-		"oA": 0,
-		"oAP": "\/images\/background1.png",
+		"oAP": "\/images\/frodo-big.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -158,26 +147,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
-		},
-	"\/images\/Frodo.jpg": {
-		"ft": 16384,
-		"iS": 74716,
-		"oA": 0,
-		"oAP": "\/images\/Frodo.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/Frodo2.JPG": {
-		"ft": 16384,
-		"iS": 4522134,
-		"oA": 0,
-		"oAP": "\/images\/Frodo2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"\/index.html": {
