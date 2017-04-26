@@ -1,18 +1,2 @@
-* {
-  margin: 0;
-  padding: 0; }
-
-.custom-nav {
-  margin-top: 3px; }
-
-/*.row {
-
-  border: 2px solid red !important;
-}*/
-.jumbotron {
-  background-color: white;
-  margin: 0;
-  padding-bottom: 10px; }
-
-.test {
-  border: 2px dashed red; }
+body {
+  background-image: url("/images/background1.png") !important; }

@@ -127,6 +127,39 @@
 		"oAP": "\/fonts\/glyphicons-halflings-regular.woff2",
 		"oF": 0
 		},
+	"\/images\/background.png": {
+		"ft": 32768,
+		"iS": 826784,
+		"oA": 0,
+		"oAP": "\/images\/background.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/background1.png": {
+		"ft": 32768,
+		"iS": 699989,
+		"oA": 0,
+		"oAP": "\/images\/background1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/frodo-small.png": {
+		"ft": 32768,
+		"iS": 90348,
+		"oA": 0,
+		"oAP": "\/images\/frodo-small.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/Frodo.jpg": {
 		"ft": 16384,
 		"iS": 74716,
@@ -180,6 +213,12 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/README.html",
+		"oF": 0
+		},
 	"\/README.md": {
 		"cS": 0,
 		"eF": 1,
@@ -197,6 +236,12 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/Sketch\/Frodo.sketch": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Sketch\/Frodo.sketch",
+		"oF": 0
 		}
 	},
 "hooks": [
