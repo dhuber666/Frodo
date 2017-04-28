@@ -10,7 +10,7 @@ body {
   /* Background: */
   background-image: linear-gradient(-218deg, #FBDA61 34%, #F76B1C 89%);
   border: 1px solid #979797;
-  margin-top: 50px;
+  margin-top: 40px;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -23,6 +23,13 @@ body {
 a {
 
   color: #FB8604 !important;
+
+}
+
+a:hover {
+
+  color: white !important;
+
 }
 
 .content {
@@ -42,18 +49,34 @@ a {
 
 }
 
+.content-headline {
+
+  padding-left: 20px;
+}
+
+.custom-pic {
+
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-radius: 50%;
+
+
+}
 
 
 p {
 
-  /* Wilkommen auf der Se: */
+
 font-family: AvenirNext-Heavy;
 font-size: 17px;
 color: black;
 line-height: 27px;
 margin-top: 20px;
+font-weight: bold;
 
-padding: 10px;
+padding: 5px;
+padding-left: 10px;
 }
 
 
@@ -63,6 +86,7 @@ padding: 10px;
 font-family: AvenirNext-Bold;
 font-size: 40px;
 color: #FB8604;
+
 }
 
 
@@ -81,8 +105,10 @@ color: #FB8604;
 
   /* Frodo von Askerta: */
 font-family: AvenirNext-Bold;
-font-size: 72px;
+font-size: 92px;
 color: #000000;
+
+
 
 }
 
@@ -105,4 +131,22 @@ body h1 {
 
 .footer-content {
   margin: auto auto;
+}
+
+hr.style18 {
+  height: 30px;
+  border-style: solid;
+  border-color: #8c8b8b;
+  border-width: 1px 0 0 0;
+  border-radius: 20px;
+}
+hr.style18:before {
+  display: block;
+  content: "";
+  height: 30px;
+  margin-top: -31px;
+  border-style: solid;
+  border-color: #8c8b8b;
+  border-width: 0 0 1px 0;
+  border-radius: 20px;
 }
