@@ -46,12 +46,18 @@ a:hover {
 
     /*padding-top: 30px;*/
     text-align: left;
+    padding: 20px 10px;
+
 
 }
 
 .content-headline {
 
   padding-left: 20px;
+}
+
+.p-news {
+  font-size: 18px;
 }
 
 .custom-pic {
@@ -64,6 +70,54 @@ a:hover {
 
 }
 
+.style-two {
+
+
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+
+}
+
+
+
+/* Bubble with an isoceles triangle
+------------------------------------------ */
+
+.triangle-isosceles {
+  top: 30px;
+  position: relative;
+  padding: 25px;
+  margin: 1em 0 3em;
+  color: #000;
+  background: #f3961c;
+  border-radius: 10px;
+  background: linear-gradient(top, #f9d835, #f3961c);
+  display: none;
+
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f9c667+0,f79621+100;Orange+3D+%234 */
+background: #f9c667; /* Old browsers */
+background: -moz-linear-gradient(top, #f9c667 0%, #f79621 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #f9c667 0%,#f79621 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #f9c667 0%,#f79621 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9c667', endColorstr='#f79621',GradientType=0 ); /* IE6-9 */
+
+}
+
+/* creates triangle */
+.triangle-isosceles:after {
+  content: "";
+  display: block; /* reduce the damage in FF3.0 */
+  position: absolute;
+  bottom: 0;
+  left: 158px;
+  width: 0;
+  border-width: 0 15px 15px 0;
+  border-style: solid;
+  border-color: #f3961c transparent;
+}
+
+}
 
 p {
 
@@ -127,6 +181,14 @@ body h1 {
   margin-top: 20px;
   background: black;
 
+
+
+}
+
+.my-nav {
+
+  position: relative;
+  right: 4%;
 }
 
 .footer-content {
